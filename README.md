@@ -1,13 +1,19 @@
-<div align="center">
+﻿<div align="center">
 
   <!-- Header Banner com Gradiente Futurista -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Israel%20Alkimim&fontSize=48&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20GovTech%20%26%20Marketplaces%20Architect&descFontSize=19&descAlignY=60&fontColor=ffffff&stroke=00f2fe&strokeWidth=1" width="100%" alt="Israel Alkimim Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=180&section=header&text=Israel%20Alkimim&fontSize=42&fontAlignY=40&fontColor=ffffff" width="100%" alt="Israel Alkimim Header" />
 
-  <!-- Animated Typing SVG -->
+  <!-- Foto de Perfil com borda neon cyan -->
+  <p align="center">
+    <img src="https://avatars.githubusercontent.com/u/68530881?v=4" width="125" height="125" style="border-radius: 50%; border: 3px solid #00f2fe;" alt="Israel Alkimim" />
+  </p>
+
+  <!-- Letreiro Automático Dinâmico (Sem corte de letras!) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Especialista+em+Solu%C3%A7%C3%B5es+Escal%C3%A1veis%2C+Marketplaces+e+GovTech;Desenvolvedor+Full+Stack+%26+Mobile+(Laravel%2C+Node%2C+React%2C+React+Native);Transformando+regras+de+neg%C3%B3cio+complexas+em+produtos+reais." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&width=800&height=50&lines=Desenvolvedor+Full+Stack+%26+Mobile;Laravel+%7C+Node.js+%7C+React+%7C+React+Native;Especialista+em+Marketplaces+e+GovTech;Transformando+regras+de+neg%C3%B3cio+em+produtos+reais." alt="Desenvolvedor Full Stack & Mobile" />
   </a>
 
+  <!-- Redes Sociais & Contatos Oficiais -->
   <p align="center">
     <a href="https://linkedin.com/in/israel-alkimim" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,7 +25,7 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://wa.me/5511962610538" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/WhatsApp-(11)%2096261--0538-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 
@@ -160,9 +166,9 @@ Seja para oportunidades profissionais, desenvolvimento de produtos escaláveis o
 
 - 💼 **LinkedIn:** [linkedin.com/in/israel-alkimim](https://linkedin.com/in/israel-alkimim)
 - 📧 **E-mail:** [israelalkimim@gmail.com](mailto:israelalkimim@gmail.com)
-- 📱 **WhatsApp:** [Entre em Contato Diretamente](https://wa.me/5511999999999)
+- 📱 **WhatsApp:** [(11) 96261-0538](https://wa.me/5511962610538)
 - 🌐 **Portfólio Interativo Online:** [israelalkimim.github.io](https://israelalkimim.github.io)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=80&section=footer" width="100%" />
 </div>
