@@ -8,9 +8,9 @@
     <img src="https://avatars.githubusercontent.com/u/68530881?v=4" width="125" height="125" style="border-radius: 50%; border: 3px solid #00f2fe;" alt="Israel Alkimim" />
   </p>
 
-  <!-- Letreiro Automático Dinâmico (Sem corte de letras!) -->
+  <!-- Letreiro Automático Dinâmico (Com PHP Carro-Chefe e Vue.js) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&width=800&height=50&lines=Desenvolvedor+Full+Stack+%26+Mobile;Laravel+%7C+Node.js+%7C+React+%7C+React+Native;Especialista+em+Marketplaces+e+GovTech;Transformando+regras+de+neg%C3%B3cio+em+produtos+reais." alt="Desenvolvedor Full Stack & Mobile" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&width=800&height=50&lines=Desenvolvedor+Full+Stack+%26+Mobile;PHP+(Carro-Chefe)+%7C+Laravel+11+%7C+Vue.js;TailwindCSS+%7C+React+Native+%7C+MySQL;Especialista+em+Marketplaces+e+GovTech;Transformando+regras+de+neg%C3%B3cio+em+produtos+reais." alt="Desenvolvedor Full Stack & Mobile" />
   </a>
 
   <!-- Redes Sociais & Contatos Oficiais -->
@@ -35,12 +35,13 @@
 
 ### 🚀 Sobre Mim
 
-Engenheiro de Software / Desenvolvedor **Full Stack & Mobile** com sólida experiência prática na concepção, arquitetura e entrega de aplicações ponta a ponta. Atuo desde o levantamento de requisitos de negócio, modelagem de bancos de dados relacionais robustos, construção de APIs RESTful de alta performance, até interfaces web intuitivas e aplicativos mobile nativos e híbridos para produção.
+Desenvolvedor **Full Stack & Mobile** com foco prioritário e domínio aprofundado em **PHP (meu principal carro-chefe), ecossistema Laravel 11, Vue.js, TailwindCSS e React Native**. Atuo desde a concepção da arquitetura, modelagem de banco de dados relacional robusto, construção de regras de negócio complexas, até interfaces web reativas e aplicativos mobile nativos para produção.
 
-- 🏛️ **GovTech & Cidades Inteligentes:** Arquiteto e desenvolvedor do ecossistema **Cidadão Inteligente** (Web & App) para a gestão pública municipal de Itapecerica da Serra - SP.
+- 🐘 **Carro-Chefe:** Desenvolvimento de alta performance com **PHP 8+ e Laravel 11** (Clean Architecture, Eloquent ORM, Filas, APIs e Segurança).
+- 💚 **Frontend Moderno:** Criação de interfaces reativas e componentizadas com **Vue.js**, estilização ágil com **TailwindCSS (v3 & v4)**, Alpine.js e Vite.
+- 📱 **Mobile:** Aplicativos cross-platform e compilação de APKs com **React Native (Expo)**.
+- 🏛️ **GovTech & Smart Cities:** Arquiteto e desenvolvedor do ecossistema **Cidadão Inteligente** (Web & App) para a gestão pública municipal de Itapecerica da Serra - SP.
 - 🛒 **Marketplaces & FinTech:** Criação de plataformas completas de intermediação de serviços e comércio de maquinário pesado com checkout e pagamentos integrados (**Mercado Pago API**).
-- ⚙️ **Engenharia de Software:** Domínio aprofundado em **PHP/Laravel, Node.js, TypeScript, React, React Native (Expo), TailwindCSS, Docker** e bancos de dados relacionais (**MySQL, PostgreSQL**).
-- 🎯 **Foco em Resultados:** Código limpo, componentização modular, segurança e foco em soluções que resolvem problemas reais de usuários e empresas.
 
 ---
 
@@ -48,18 +49,14 @@ Engenheiro de Software / Desenvolvedor **Full Stack & Mobile** com sólida exper
 
 <div align="center">
 
-#### 🔹 Backend & APIs
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+#### 🔹 Backend & APIs (Carro-Chefe)
+![PHP](https://img.shields.io/badge/PHP_8+-Carro--Chefe-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_11-Framework_Principal-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### 🔹 Frontend Web & UI/UX
-![React](https://img.shields.io/badge/React_18/19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+#### 🔹 Frontend Web & UI/UX (Carro-Chefe)
+![Vue.js](https://img.shields.io/badge/Vue.js-Framework_Web-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS_v3/v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white)
@@ -67,21 +64,21 @@ Engenheiro de Software / Desenvolvedor **Full Stack & Mobile** com sólida exper
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🔹 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-Mobile_Apps-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_APK/AAB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS_Ready-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 #### 🔹 Banco de Dados & Armazenamento
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Banco_Relacional-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![ORMs](https://img.shields.io/badge/ORMs-Eloquent%20%7C%20Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Eloquent](https://img.shields.io/badge/ORM-Eloquent%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### 🔹 DevOps, Cloud & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux VPS](https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
@@ -99,7 +96,7 @@ Engenheiro de Software / Desenvolvedor **Full Stack & Mobile** com sólida exper
       <h3 align="center">🏛️ Cidadão Inteligente (Intelitap)</h3>
       <p align="center"><b>GovTech & Smart Cities | Prefeitura de Itapecerica da Serra - SP</b></p>
       <p>Ecossistema integrado (Web & Mobile) desenvolvido para modernização e digitalização dos serviços públicos municipais. Inclui ouvidoria interativa, zeladoria urbana com geolocalização, agendamento de atendimentos e painel de controle analítico para a administração pública.</p>
-      <p><b>Stack:</b> React Native (Expo), React, Node.js, Express, TypeScript, TailwindCSS, PostgreSQL.</p>
+      <p><b>Stack:</b> React Native (Expo), Vue.js, PHP / Laravel, TypeScript, TailwindCSS, PostgreSQL.</p>
       <p align="center">
         <a href="https://github.com/israelalkimim/app-cidadao-intelitap"><b>Ver Repositório & Detalhes →</b></a>
       </p>
@@ -108,7 +105,7 @@ Engenheiro de Software / Desenvolvedor **Full Stack & Mobile** com sólida exper
       <h3 align="center">🚜 NNewtractor Marketplace & App</h3>
       <p align="center"><b>AgriTech & B2B/B2C Marketplace | Cliente</b></p>
       <p>Marketplace de grande escala para compra, venda e locação de tratores, maquinário agrícola e equipamentos industriais pesados. Inclui catálogo categorizado, filtros avançados, gestão de anúncios e checkout integrado com Mercado Pago.</p>
-      <p><b>Stack:</b> PHP 8+, Laravel, MySQL, TailwindCSS, Mercado Pago API, Mobile App.</p>
+      <p><b>Stack:</b> PHP 8+, Laravel 11, MySQL, TailwindCSS, Mercado Pago API, Mobile App.</p>
       <p align="center">
         <a href="https://github.com/israelalkimim/nnewtractor-marketplace"><b>Ver Repositório & Detalhes →</b></a>
       </p>
@@ -119,7 +116,7 @@ Engenheiro de Software / Desenvolvedor **Full Stack & Mobile** com sólida exper
       <h3 align="center">🤝 Plataforma Mão Amiga</h3>
       <p align="center"><b>Marketplace de Serviços & App | Projeto Pessoal</b></p>
       <p>Plataforma completa de intermediação entre clientes e prestadores de serviços autônomos. Sistema com busca inteligente, perfis profissionais qualificados, cotações e aplicativo mobile compilado com APK funcional.</p>
-      <p><b>Stack:</b> Node.js (API REST), TypeScript, Vue.js / React, React Native (Mobile), TailwindCSS, MySQL.</p>
+      <p><b>Stack:</b> PHP / Laravel & APIs REST, Vue.js, React Native (Mobile), TailwindCSS, MySQL.</p>
       <p align="center">
         <a href="https://github.com/israelalkimim/plataforma-mao-amiga"><b>Ver Repositório & Detalhes →</b></a>
       </p>
@@ -139,7 +136,7 @@ Engenheiro de Software / Desenvolvedor **Full Stack & Mobile** com sólida exper
       <h3>🌿 Lar de Idosos Luz do Universo</h3>
       <p><b>Plataforma Institucional & Gestão Humanizada | Cliente</b></p>
       <p>Solução web com design acolhedor, alta performance, acessibilidade e otimização de SEO para casa de repouso e assistência humanizada à terceira idade.</p>
-      <p><b>Stack:</b> Laravel 11, TailwindCSS v4, Alpine.js, Vite, PHP.</p>
+      <p><b>Stack:</b> PHP / Laravel 11, TailwindCSS v4, Alpine.js, Vite.</p>
       <p>
         <a href="https://github.com/israelalkimim/luz-do-universo"><b>Ver Repositório & Detalhes →</b></a>
       </p>
@@ -149,13 +146,20 @@ Engenheiro de Software / Desenvolvedor **Full Stack & Mobile** com sólida exper
 
 ---
 
-### 📊 Estatísticas do GitHub & Atividade
+### 📊 Estatísticas do GitHub & Métricas em Tempo Real
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israelalkimim&show_icons=true&theme=radical&hide_border=true&title_color=00f2fe&icon_color=4facfe&text_color=ffffff&bg_color=0d1117" height="175" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=israelalkimim&theme=radical&hide_border=true&stroke=00f2fe&background=0d1117&ring=00f2fe&fire=4facfe&currStreakLabel=00f2fe" height="175" alt="Streak do GitHub" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelalkimim&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117" height="170" alt="Linguagens Mais Utilizadas" />
+  <p align="center">
+    <img src="https://img.shields.io/github/repos-public/israelalkimim?label=Reposit%C3%B3rios%20P%C3%BAblicos&style=for-the-badge&logo=github&color=00f2fe&logoColor=white" alt="Repositórios Públicos" />
+    <img src="https://img.shields.io/github/followers/israelalkimim?label=Seguidores&style=for-the-badge&logo=github&color=4facfe&logoColor=white" alt="Seguidores" />
+    <img src="https://img.shields.io/badge/Carro--Chefe-PHP%208+%20%7C%20Laravel%2011-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Carro Chefe" />
+    <img src="https://img.shields.io/badge/Frontend-Vue.js%20%7C%20TailwindCSS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js Frontend" />
+  </p>
+  
+  <br/>
+  
+  <!-- Streak Stats Dinâmico e 100% Funcional -->
+  <img src="https://streak-stats.demolab.com/?user=israelalkimim&theme=radical&hide_border=true&stroke=00f2fe&background=0d1117&ring=00f2fe&fire=4facfe&currStreakLabel=00f2fe" height="180" alt="Streak do GitHub" />
 </div>
 
 ---
