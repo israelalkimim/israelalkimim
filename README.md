@@ -8,9 +8,9 @@
     <img src="https://avatars.githubusercontent.com/u/68530881?v=4" width="125" height="125" style="border-radius: 50%; border: 3px solid #00f2fe;" alt="Israel Alkimim" />
   </p>
 
-  <!-- Letreiro Automático Dinâmico (Com PHP Carro-Chefe e Vue.js) -->
+  <!-- Letreiro Automático Dinâmico -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&width=800&height=50&lines=Desenvolvedor+Full+Stack+%26+Mobile;PHP+(Carro-Chefe)+%7C+Laravel+11+%7C+Vue.js;TailwindCSS+%7C+React+Native+%7C+MySQL;Especialista+em+Marketplaces+e+GovTech;Transformando+regras+de+neg%C3%B3cio+em+produtos+reais." alt="Desenvolvedor Full Stack & Mobile" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&width=800&height=50&lines=Desenvolvedor+Full+Stack+%26+Mobile;PHP+%7C+Laravel+11+%7C+Vue.js;TailwindCSS+%7C+React+Native+%7C+MySQL;Especialista+em+Marketplaces+e+GovTech;Transformando+regras+de+neg%C3%B3cio+em+produtos+reais." alt="Desenvolvedor Full Stack & Mobile" />
   </a>
 
   <!-- Redes Sociais & Contatos Oficiais -->
@@ -35,9 +35,9 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor **Full Stack & Mobile** com foco prioritário e domínio aprofundado em **PHP (meu principal carro-chefe), ecossistema Laravel 11, Vue.js, TailwindCSS e React Native**. Atuo desde a concepção da arquitetura, modelagem de banco de dados relacional robusto, construção de regras de negócio complexas, até interfaces web reativas e aplicativos mobile nativos para produção.
+Desenvolvedor **Full Stack & Mobile** com foco prioritário e domínio aprofundado em **PHP, ecossistema Laravel 11, Vue.js, TailwindCSS e React Native**. Atuo desde a concepção da arquitetura, modelagem de banco de dados relacional robusto, construção de regras de negócio complexas, até interfaces web reativas e aplicativos mobile nativos para produção.
 
-- 🐘 **Carro-Chefe:** Desenvolvimento de alta performance com **PHP 8+ e Laravel 11** (Clean Architecture, Eloquent ORM, Filas, APIs e Segurança).
+- 🐘 **Backend & APIs:** Desenvolvimento de alta performance com **PHP 8+ e Laravel 11** (Clean Architecture, Eloquent ORM, Filas, APIs e Segurança).
 - 💚 **Frontend Moderno:** Criação de interfaces reativas e componentizadas com **Vue.js**, estilização ágil com **TailwindCSS (v3 & v4)**, Alpine.js e Vite.
 - 📱 **Mobile:** Aplicativos cross-platform e compilação de APKs com **React Native (Expo)**.
 - 🏛️ **GovTech & Smart Cities:** Arquiteto e desenvolvedor do ecossistema **Cidadão Inteligente** (Web & App) para a gestão pública municipal de Itapecerica da Serra - SP.
@@ -49,13 +49,13 @@ Desenvolvedor **Full Stack & Mobile** com foco prioritário e domínio aprofunda
 
 <div align="center">
 
-#### 🔹 Backend & APIs (Carro-Chefe)
-![PHP](https://img.shields.io/badge/PHP_8+-Carro--Chefe-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel_11-Framework_Principal-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+#### 🔹 Backend & APIs
+![PHP](https://img.shields.io/badge/PHP_8+-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_11-Framework-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### 🔹 Frontend Web & UI/UX (Carro-Chefe)
+#### 🔹 Frontend Web & UI/UX
 ![Vue.js](https://img.shields.io/badge/Vue.js-Framework_Web-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS_v3/v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -150,15 +150,15 @@ Desenvolvedor **Full Stack & Mobile** com foco prioritário e domínio aprofunda
 
 <div align="center">
   <p align="center">
-    <img src="https://img.shields.io/github/repos-public/israelalkimim?label=Reposit%C3%B3rios%20P%C3%BAblicos&style=for-the-badge&logo=github&color=00f2fe&logoColor=white" alt="Repositórios Públicos" />
+    <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios%20Ativos-00f2fe?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios Ativos" />
     <img src="https://img.shields.io/github/followers/israelalkimim?label=Seguidores&style=for-the-badge&logo=github&color=4facfe&logoColor=white" alt="Seguidores" />
-    <img src="https://img.shields.io/badge/Carro--Chefe-PHP%208+%20%7C%20Laravel%2011-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Carro Chefe" />
+    <img src="https://img.shields.io/badge/Backend-PHP%208+%20%7C%20Laravel%2011-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP e Laravel" />
     <img src="https://img.shields.io/badge/Frontend-Vue.js%20%7C%20TailwindCSS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js Frontend" />
   </p>
   
   <br/>
   
-  <!-- Streak Stats Dinâmico e 100% Funcional -->
+  <!-- Streak Stats Dinâmico -->
   <img src="https://streak-stats.demolab.com/?user=israelalkimim&theme=radical&hide_border=true&stroke=00f2fe&background=0d1117&ring=00f2fe&fire=4facfe&currStreakLabel=00f2fe" height="180" alt="Streak do GitHub" />
 </div>
 
